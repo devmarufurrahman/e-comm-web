@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.wrapper{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.wid-25{
+    width: 25%;
+}
+.wid-50{
+    width: 50%;
+}
+.wid-75{
+    width: 75%;
+}
+.common-btn{
+    padding: 5px;
+    border: 1px solid #ddd;
+    height: 40px;
+    min-width: 40px;
+    background-color: #fff;
+    
+}
+.clear-both{
+    clear: both;
+}
+.margin-right-5{
+    margin-right: 5%;
+}
